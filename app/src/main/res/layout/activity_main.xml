@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#2B2D42"
+    android:background="#282936"
     android:padding="10dp"
     tools:context=".MainActivity">
 
@@ -34,9 +34,9 @@
 
         <Button
             android:id="@+id/reset"
-            android:layout_marginRight="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
             android:text="Reset" />
 
         <Button
@@ -47,9 +47,9 @@
 
         <Button
             android:id="@+id/plus"
-            android:layout_marginLeft="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
             android:text="+1" />
     </LinearLayout>
 
