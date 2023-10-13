@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Counting App"
+rootProject.name = "TestCouter"
 include(":app")

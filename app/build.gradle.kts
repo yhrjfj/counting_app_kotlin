@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.countingapp"
+    namespace = "com.example.testcouter"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.countingapp"
+        applicationId = "com.example.testcouter"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
